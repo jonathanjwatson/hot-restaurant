@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jonathanjwatson/hot-restaurant/issues"
   },
-  "homepage": "https://github.com/jonathanjwatson/hot-restaurant#readme"
+  "homepage": "https://github.com/jonathanjwatson/hot-restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
